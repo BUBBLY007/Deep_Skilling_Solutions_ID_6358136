@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\bin\Debug\net9.0\ECommercePlatformSearch.exe
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\bin\Debug\net9.0\ECommercePlatformSearch.deps.json
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\bin\Debug\net9.0\ECommercePlatformSearch.runtimeconfig.json
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\bin\Debug\net9.0\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\bin\Debug\net9.0\ECommercePlatformSearch.pdb
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\refint\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.pdb
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ECommercePlatformSearch.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\ECommercePlatformSearch\obj\Debug\net9.0\ref\ECommercePlatformSearch.dll
