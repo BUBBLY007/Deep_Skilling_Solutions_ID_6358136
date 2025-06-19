@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\WEEK-1 Hands-on\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll
