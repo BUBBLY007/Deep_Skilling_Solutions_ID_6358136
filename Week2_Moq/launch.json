@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET: Test Project",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/CustomerComm.Tests/bin/Debug/net6.0/CustomerComm.Tests.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}

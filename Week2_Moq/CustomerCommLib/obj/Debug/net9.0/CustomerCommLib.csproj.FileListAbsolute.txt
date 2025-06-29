@@ -1,0 +1,4 @@
+C:\Users\KIIT\Desktop\Week2_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Week2_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Week2_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Week2_Moq\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
