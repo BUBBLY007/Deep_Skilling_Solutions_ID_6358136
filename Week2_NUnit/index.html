@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <title>Calculator-6358136</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: beige;
+            padding: 40px;
+            color: #333;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff8dc;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            border-radius: 10px;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 5px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            width: 100%;
+            padding: 15px;
+            background-color: brown;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #c19a6b;
+        }
+        #result {
+            margin-top: 15px;
+            font-size: 1.2em;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Calculator-6358136</h2>
+        <input id="a" type="number" placeholder="Enter 1st number" />
+        <input id="b" type="number" placeholder="Enter 2nd number" />
+        <button onclick="add()">Add</button>
+        <p id="result">Result: </p>
+    </div>
+    <script>
+        function add() {
+            const a = parseInt(document.getElementById("a").value);
+            const b = parseInt(document.getElementById("b").value);
+            const result = a + b;
+            document.getElementById("result").innerText = `Result: ${result}`;
+        }
+    </script>
+</body>
+</html>
