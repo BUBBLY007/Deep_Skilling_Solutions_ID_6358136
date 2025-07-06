@@ -17,12 +17,12 @@ CREATE TABLE Products (
 
 INSERT INTO Categories(Name) VALUES("Electronics"), ("Clothes");
 
-INSERT INTO Products(Name, Price) VALUES ("Laptop", 90000),
-	("Saree", 2900),
-    ("Mobile Phone", 25000),
-    ("Jeans", 1500),
-    ("Earphones", 880),
-    ("Crop Top", 350);
+INSERT INTO Products(Name, Price, CategoryId) VALUES ("Laptop", 90000, 1),
+	("Saree", 2900, 2),
+    ("Mobile Phone", 25000, 1),
+    ("Jeans", 1500, 2),
+    ("Earphones", 880, 1),
+    ("Crop Top", 350, 2);
 
 SHOW TABLES;
 SELECT * FROM Products;
